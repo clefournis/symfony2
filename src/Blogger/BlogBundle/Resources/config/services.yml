@@ -1,0 +1,5 @@
+parameters:
+#    blogger_blog.example.class: Blogger\BlogBundle\Example
+
+services:
+
